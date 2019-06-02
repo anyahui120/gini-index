@@ -1,2 +1,2 @@
 # gini-index
-This metric is used to measure the coverage of the prediction results.
+This function is used to measure the degree distribution of items that users have selected in the trainning dataset.
